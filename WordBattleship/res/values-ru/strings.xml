@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Морской бой со словами</string>
+    <string name="action_settings">Settings</string>
+     <string name="choose_word">Выберите слово</string>
+    <string name="new_game">Новая игра</string>
+    <string name="level">Уровень</string>
+      <string name="shots">Выстрелов</string>
+      <string name="you_lose">Android затонул всех ваших судов</string>
+       <string name="you_win_level">Вы утонули все вражеские корабли</string>
+      <string name="you_win">Выполненные все уровни - Поздравляем</string>
+       <string name="you_stay">Вы останутся на уровне : </string>
+        <string name="yes">Да</string>
+         <string name="no">Нет</string>
+          <string name="compliments">Браво</string>
+          <string name="shoted">Вы уже выстрелили здесь</string>
+          <string name="start_level">Вы начинаете уровень</string>
+          <string name="on">Вкл.</string>
+          <string name="off">Выкл.</string>
+          <string name="sound">Звук</string>
+          
+          
+          
+          
+          <string name="ALL_SHIPS_SINK">Вы утонули все вражеские корабли</string>
+          <string name="LEVEL">Уровень</string>
+          <string name="NEW_RECORD">Новый рекорд!</string>
+          <string name="SHOTS_IN_THIS_GAME">Количество бросков в этой игре: </string>
+          <string name="BEST_RESULT_FOR_LEVEL">Самый хороший результат для уровня</string>
+          <string name="BEFORE_THAT_GAME">до этой игры: </string>
+          <string name="START_LEVEL">Начинаете уровень</string>
+          <string name="GREETINGS">Браво</string>
+          <string name="ALL_LEVELS_PASSED">Вы прошли все уровни - Поздравляем</string>
+          <string name="YES">Вы начинаете уровень</string>
+          <string name="help">Помощь</string>
+        
+          
+          
+        
+          
+
+    <string-array name="dumi">
+        <item>не</item>
+        <item>он</item>
+        <item>на</item>
+        <item>по</item>
+        <item>до</item>
+        <item>но</item>
+        <item>из</item>
+        <item>за</item>
+        <item>от</item>
+        <item>да</item>
+        <item>что</item>
+        <item>тот</item>
+        <item>ето</item>
+        <item>как</item>
+        <item>она</item>
+        <item>мир</item>
+        <item>так</item>
+        <item>уже</item>
+        <item>для</item>
+        <item>вот</item>
+        <item>один</item>
+        <item>себя</item>
+        <item>если</item>
+        <item>рука</item>
+        <item>даже</item>
+        <item>дело</item>
+        <item>глаз</item>
+        <item>надо</item>
+        <item>идти</item>
+        <item>тоже</item>
+    </string-array>
+    <string name="helptext">helptext</string>
+
+</resources>

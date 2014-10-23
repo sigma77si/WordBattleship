@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Морски шах с думи</string>
+    <string name="action_settings">Settings</string>
+     <string name="choose_word">Избери дума</string>
+    <string name="new_game">Нова игра</string>
+    <string name="level">Ниво</string>
+      <string name="shots">Изстрела</string>
+      <string name="you_lose">Андроид потопи всичките ви кораби.</string>
+       <string name="you_win_level">Потопихте всички вражески кораби.</string>
+      <string name="you_win">Преминахте всички нива - Поздравления.</string>
+       <string name="you_stay">Оставате на ниво : </string>
+        <string name="yes">Да</string>
+         <string name="no">Не</string>
+          <string name="compliments">Браво</string>
+          <string name="shoted">Тук вече сте стреляли</string>
+          <string name="start_level">Започвате ниво</string>
+          <string name="on">Включи</string>
+          <string name="off">Изключи</string>
+          <string name="sound">Звук</string>
+          
+          
+          
+          <string name="ALL_SHIPS_SINK">Потопихте всички вражески корабио</string>
+          <string name="LEVEL">Ниво</string>
+          <string name="NEW_RECORD">Нов рекорд!</string>
+          <string name="SHOTS_IN_THIS_GAME">Брой изстрели в тази игра: </string>
+          <string name="BEST_RESULT_FOR_LEVEL">Най добър резултат за ниво</string>
+          <string name="BEFORE_THAT_GAME">преди тази игра: </string>
+          <string name="START_LEVEL">Започвате ниво</string>
+          <string name="GREETINGS">Браво</string>
+          <string name="ALL_LEVELS_PASSED">Преминахте всички нива - Поздравления</string>
+          <string name="YES">Да</string>
+          <string name="help">Помош</string>
+          
+          
+          
+         
+          
+          
+    <string-array name="dumi"
+         id="dumiarrey">
+        <item>ад</item>
+        <item>аз</item>
+        <item>ас</item>
+        <item>да</item>
+        <item>до</item>
+        <item>за</item>
+        <item>на</item>
+        <item>не</item>
+        <item>от</item>
+        <item>по</item>
+        <item>бaр</item>
+        <item>бoр</item>
+        <item>вар</item>
+        <item>вир</item>
+        <item>дар</item>
+        <item>мир</item>
+        <item>нар</item>
+        <item>пир</item>
+        <item>пор</item>
+        <item>цар</item>
+        <item>дете</item>
+        <item>елха</item>
+        <item>жена</item>
+        <item>кола</item>
+        <item>лале</item>
+        <item>мида</item>
+        <item>небе</item>
+        <item>нива</item>
+        <item>поле</item>
+        <item>чаша</item>
+    </string-array>
+    <string name="helptext">helptext</string>
+
+</resources>

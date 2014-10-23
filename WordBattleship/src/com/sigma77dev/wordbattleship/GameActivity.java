@@ -771,6 +771,13 @@ public class GameActivity extends Activity implements OnClickListener {
 			} else if (checkshotA == 1 && turn == 1) {
 				Toast.makeText(GameActivity.this, R.string.shoted,
 						Toast.LENGTH_SHORT).show();
+				String hitLetter = getHitCellLetter(row, col,
+						androidShipsLocations, androidWords);
+				TableRow tableRow1 = (TableRow) table.getChildAt(row);
+				 cellView1 = tableRow1.getChildAt(col);
+				cellView1
+						.setBackgroundResource(GetImageForLetter(hitLetter));
+				GetSoundForLetter(hitLetter);
 
 			}
 
